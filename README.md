@@ -31,6 +31,7 @@ The system detects the over-temperature condition and activates both the LED and
 
 ## Project Screenshots
 ### Normal Condition
+https://github.com/Sayan-saha-03/EV-Battery-Thermal-Monitoring-Overheat-Alert-System-Prototype/blob/main/screenshots/normal-codition.png
 
 ### Overheat Condition
 
