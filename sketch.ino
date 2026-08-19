@@ -60,16 +60,6 @@ void setup(){
   noTone(BUZZER_PIN);
 }
 
-// void loop(){
-//   float temperature = readTemperature();
-//   Serial.print("Temperature: ");
-//   Serial.print(temperature);
-//   Serial.println(" C");
-//   controlAlarm(temperature);
-//   Serial.println("--------------------");
-//   delay(1000);
-// }
-
 void loop(){
 
   float temperature = readTemperature();
